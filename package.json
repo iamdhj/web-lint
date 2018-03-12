@@ -1,0 +1,23 @@
+{
+  "name": "web-lint",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hong",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "htmlhint": "^0.9.13",
+    "js-beautify": "^1.7.5",
+    "stylelint": "^9.1.1",
+    "stylelint-config-standard": "^18.0.0"
+  }
+}

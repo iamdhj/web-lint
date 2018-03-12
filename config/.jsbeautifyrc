@@ -1,0 +1,16 @@
+{
+    "editorconfig": true,
+    "brace_style": "collapse,preserve-inline",
+    "html": {
+        "indent_size": 4,
+        "max_preserve_newlines": 1,
+        "extra_liners": []
+    },
+    "css": {
+        "space_around_combinator": true
+    },
+    "js": {
+        "max_preserve_newlines": 3,
+        "space_after_anon_function": true
+    }
+}
