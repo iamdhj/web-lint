@@ -1,4 +1,4 @@
-# Web-Linti-Tools
+# Web-Lint-Tools
 
 ## Installation and Initialize
 
