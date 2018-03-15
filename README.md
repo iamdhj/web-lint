@@ -1,12 +1,16 @@
-## Web项目校验配置
+# Web-Lint
 
-.editorconfig 文件格式设置
+## Installation and Initialize
 
-.jsbeautifyrc 文件格式化
+```
+$ cd project
+$ npm install web-lint --save-dev
+$ ./nocd_modules/.bin/web-lint .
+```
 
-.eslintrc   脚本校验
-
-.stylelintrc    样式校验
-
-.htmlhintrc     网页校验
-
+## Editor Plugin
+|                    | [editorconfig](http://editorconfig.org/) | [js-beautify](https://github.com/beautify-web/js-beautify) | [eslint](https://eslint.org/)            | [stylelint](https://stylelint.io/)                                | [htmlhint](https://github.com/yaniswang/HTMLHint)                                 |
+| ------------------ | :--------------------------------------: | :--------------------------------------: | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| WebStorm           |              native-support              |       File Watchers/External Tools       | native-support                           | native-support(2017+)                  | none                                     |
+| Visual Studio Code | [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) | [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) | [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) | [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint) |
+| Vim                | [editorconfig-vim](https://vimawesome.com/plugin/editorconfig-vim) |                                          | [ALE](https://vimawesome.com/plugin/ale) | [ALE](https://vimawesome.com/plugin/ale) | [ALE](https://vimawesome.com/plugin/ale) |

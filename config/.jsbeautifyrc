@@ -1,16 +1,17 @@
 {
-    "editorconfig": true,
-    "brace_style": "collapse,preserve-inline",
+    "indent_size": 2,
+    "end_with_newline": true,
     "html": {
+        "extra_liners": [],
         "indent_size": 4,
-        "max_preserve_newlines": 1,
-        "extra_liners": []
+        "max_preserve_newlines": 1
     },
     "css": {
         "space_around_combinator": true
     },
     "js": {
-        "max_preserve_newlines": 3,
+        "brace_style": "collapse,preserve-inline",
+        "max_preserve_newlines": 2,
         "space_after_anon_function": true
     }
 }
