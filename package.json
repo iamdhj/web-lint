@@ -1,7 +1,7 @@
 {
   "name": "web-lint-tools",
   "version": "0.0.1",
-  "description": "web files format and lint",
+  "description": "web files format and lint tools's config",
   "main": "",
   "scripts": {
     "test": "$(npm bin)/mocha test/**/*.test.js"
