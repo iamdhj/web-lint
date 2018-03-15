@@ -1,11 +1,11 @@
-# Web-Lint
+# Web-Linti-Tools
 
 ## Installation and Initialize
 
 ```
 $ cd project
-$ npm install web-lint --save-dev
-$ ./nocd_modules/.bin/web-lint .
+$ npm install web-lint-tools --save-dev
+$ ./nocd_modules/.bin/web-lint-tools .
 ```
 
 ## Editor Plugin

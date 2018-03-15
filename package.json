@@ -1,13 +1,17 @@
 {
-  "name": "web-lint",
+  "name": "web-lint-tools",
   "version": "0.0.1",
-  "description": "",
+  "description": "web files format and lint",
   "main": "",
   "scripts": {
     "test": "$(npm bin)/mocha test/**/*.test.js"
   },
   "author": "hong",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdhj/web-lint-tools.git"
+  },
   "devDependencies": {
     "eslint": "^4.17.0",
     "eslint-config-standard": "^11.0.0-beta.0",
