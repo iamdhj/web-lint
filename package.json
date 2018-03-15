@@ -1,6 +1,6 @@
 {
   "name": "web-lint-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "web files format and lint tools's config",
   "main": "",
   "scripts": {
