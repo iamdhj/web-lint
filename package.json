@@ -1,6 +1,6 @@
 {
   "name": "web-lint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "hong",
   "description": "js/css/html format and lint config",
   "bin": {
