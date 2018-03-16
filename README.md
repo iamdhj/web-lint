@@ -23,5 +23,5 @@ $ ./nocd_modules/.bin/web-lint-config .
 | Visual Studio Code | [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) | [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) | [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) | [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint) |
 | Vim                | [editorconfig-vim](https://vimawesome.com/plugin/editorconfig-vim) |                                          | [ALE](https://vimawesome.com/plugin/ale) | [ALE](https://vimawesome.com/plugin/ale) | [ALE](https://vimawesome.com/plugin/ale) |
 
-
+[appveyor-image]:https://ci.appveyor.com/api/projects/status/jex7pjo0vvh9rt4f?svg=true
 [appveyor-url]: https://ci.appveyor.com/project/iamdhj/web-lint-config
