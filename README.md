@@ -1,12 +1,18 @@
-# Web-Lint-Tools
+# Web-Lint-Config
 
-## Installation and Initialize
+## Installation
 
 ```
-$ cd project
-$ npm install web-lint-tools --save-dev
-$ ./nocd_modules/.bin/web-lint-tools .
+$ npm install web-lint-config --save-dev
 ```
+
+
+## Copy config file
+
+```
+$ ./nocd_modules/.bin/web-lint-config .
+```
+
 
 ## Editor Plugin
 |                    | [editorconfig](http://editorconfig.org/) | [js-beautify](https://github.com/beautify-web/js-beautify) | [eslint](https://eslint.org/)            | [stylelint](https://stylelint.io/)                                | [htmlhint](https://github.com/yaniswang/HTMLHint)                                 |
