@@ -4,7 +4,7 @@
   "author": "hong",
   "description": "js/css/html format and lint config",
   "bin": {
-    "web-lint-config": "./bin/web-lint-config"
+    "web-lint-config": "./bin/web-lint-config.js"
   },
   "main": "",
   "scripts": {
