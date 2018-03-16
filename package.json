@@ -10,6 +10,13 @@
   "scripts": {
     "test": "mocha test/**/*.test.js"
   },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "bin",
+    "config",
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iamdhj/web-lint-config.git"
