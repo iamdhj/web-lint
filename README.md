@@ -1,3 +1,5 @@
+[![Build status][appveyor-image]][appveyor-url]
+
 # Web-Lint-Config
 
 ## Installation
