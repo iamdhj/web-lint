@@ -9,6 +9,8 @@ install:
   - ps: Install-Product node $env:nodejs_version
   # install modules
   - npm install
+  # install test modules
+  - npm install -g mocha
 
 # Post-install test scripts.
 test_script:
